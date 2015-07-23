@@ -12,12 +12,19 @@ class ViewController: UIViewController {
 
 	override func viewDidLoad() {
 		super.viewDidLoad()
+		
 		println("im super cool")
+		
+		
 	}
 
 	override func didReceiveMemoryWarning() {
 		super.didReceiveMemoryWarning()
 		// Dispose of any resources that can be recreated.
+	}
+	
+	func awesomeFeatureX() {
+		println("this is an amazing feature")
 	}
 
 
