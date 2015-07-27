@@ -26,6 +26,8 @@ class ViewController: UIViewController {
 	func awesomeFeatureX() {
 		println("this is an average feature")
 	}
+	
+	//bug fix z
 
 
 }
