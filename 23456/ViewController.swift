@@ -27,7 +27,12 @@ class ViewController: UIViewController {
 		println("this is an average feature")
 	}
 	
+<<<<<<< HEAD
 	//bug fix z
+=======
+	
+	//bug fix
+>>>>>>> master
 
 
 }
