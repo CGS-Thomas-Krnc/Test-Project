@@ -31,6 +31,10 @@ class ViewController: UIViewController {
 
 	
 	//bug fix
+	
+	func featureQ() {
+		
+	}
 
 }
 
