@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C0140221B69E7FA00030633 /* ViewController1313.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C0140211B69E7FA00030633 /* ViewController1313.swift */; };
 		9CED725D1B607D1100692C12 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CED725C1B607D1100692C12 /* AppDelegate.swift */; };
 		9CED725F1B607D1100692C12 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CED725E1B607D1100692C12 /* ViewController.swift */; };
 		9CED72621B607D1100692C12 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CED72601B607D1100692C12 /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9C0140211B69E7FA00030633 /* ViewController1313.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController1313.swift; sourceTree = "<group>"; };
 		9CED72571B607D1100692C12 /* 23456.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 23456.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CED725B1B607D1100692C12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9CED725C1B607D1100692C12 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 			children = (
 				9CED725C1B607D1100692C12 /* AppDelegate.swift */,
 				9CED725E1B607D1100692C12 /* ViewController.swift */,
+				9C0140211B69E7FA00030633 /* ViewController1313.swift */,
 				9CED72601B607D1100692C12 /* Main.storyboard */,
 				9CED72631B607D1100692C12 /* Images.xcassets */,
 				9CED72651B607D1100692C12 /* LaunchScreen.xib */,
@@ -214,6 +217,7 @@
 			files = (
 				9CED725F1B607D1100692C12 /* ViewController.swift in Sources */,
 				9CED725D1B607D1100692C12 /* AppDelegate.swift in Sources */,
+				9C0140221B69E7FA00030633 /* ViewController1313.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -411,6 +415,7 @@
 				9CED72781B607D1100692C12 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9CED72791B607D1100692C12 /* Build configuration list for PBXNativeTarget "23456Tests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +424,7 @@
 				9CED727B1B607D1100692C12 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
