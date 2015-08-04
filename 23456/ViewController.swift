@@ -22,8 +22,9 @@ class ViewController: UIViewController {
 		super.didReceiveMemoryWarning()
 		// Dispose of any resources that can be recreated.
 	}
-	
-	func awesomeFeatureF() {
+
+func awesomeFeatureQZ() {
+
 		println("this is an average feature")
 	}
 	
